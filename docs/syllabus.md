@@ -3,7 +3,7 @@ MATH 451/551 - 01/02
 
 Spring 2025
 
-Section 1: TR:9:20-10:50 TR
+Section 1: TR:9:30-10:50 TR
 
 Section 2: TR:12:30-1:50 TR
 
@@ -38,9 +38,9 @@ academic calendar [link](https://www.wm.edu/offices/registrar/calendarsandexams/
 | - | - |
 | last day to add/drop | January 31 |
 | Spring Break | March 8-16 |
-| midterm 1 | ???  |
+| midterm 1 | Tuesday, Feb 25th (in class)  |
 | last day to withdraw | March 24 |
-| midterm 2 | ??? |
+| midterm 2 | Tuesday, April 1st (in class) |
 | final | Wednesday, May 7, 7-10PM |
 
 
@@ -66,7 +66,7 @@ Office hours will be held in person in my office Jones 125 at the times posted a
 
 Most weeks I will post a quiz problem (QP) that will be due the following week either Tues or Thurs at 11:59 PM EST. The quiz problem will be graded. In total, your grades on the quiz problems will account for 15% of your final grade. The lowest QP grade will be dropped. The QPs are intended to be completed alone so do not discuss them with your peers. 
 
-QPs will be submitted on Blackboard under the appropriate assignment. No late submissions will be accepted for QPs. If they are not submitted on blackboard by 11:59 a zero will be entered for the grade. By droppping the lowest grade, missing one or two won't hurt your grade. If there are extenuating circumstances and you cannot submit the problem, please let me know in advance ASAP. 
+QPs will be submitted on Blackboard under the appropriate assignment. No late submissions will be accepted for QPs. If they are not submitted on blackboard by 11:59 a zero will be entered for the grade. By droppping the lowest grade, missing one won't hurt your grade. If there are extenuating circumstances and you cannot submit the problem, please let me know in advance ASAP. 
 
 ## Suggested Problems (SPs), Book Problems (BPs), and Reading
 
@@ -114,7 +114,7 @@ and integrity.” Please remind yourself of your responsibilities by reading the
 Handbook [www.wm.wdu/studenthandbook](www.wm.wdu/studenthandbook) and our Honor Code
 [(www.wm.edu/honor)](www.wm.edu/honor).
 
-### Class Recordings. 
+### Class Recordings
 
 Meetings of this course may be be recorded. In such a case, recordings will be available only to students registered for this class. This is intended to supplement the classroom experience. Students are expected to follow appropriate university policies and maintain the security of passwords used to access recorded lectures. Recordings may not be reproduced, shared with those not in the class, or uploaded to other online environments; violations may be subject to disciplinary action. If the instructor or a William &amp; Mary office plans any other uses for the recordings, beyond this class, students identifiable in the recordings will be notified to request consent prior to such use.
 
