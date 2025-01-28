@@ -10,7 +10,7 @@
 No. | date | topics | reading | book problems (BPs) | suggested problems (SPs) | notes | quiz problem (QP) | 
 --- | --- | --- | --- | --- | --- | --- | --- |
 1|R 1-23 | basic set notation | Leemis 1.3 (pp28-34) | ch1: 63, 64, 69, 70, 73 | 1.1-1.5 | [sec2](lns/lec1_2.pdf)|  [QP 1](qp/qp1.pdf) due Jan 30 | 
-2|T 1-28 | axiomatic probability |  |  |  | [sec1](lns/lec2_1.pdf), [sec2](lns/lec2_2.pdf)|  --- | 
+2|T 1-28 | axiomatic probability | Leemis 2.1, 2.2 (pp41-49) | --- | --- | [sec1](lns/lec2_1.pdf), [sec2](lns/lec2_2.pdf)|  --- | 
 3|R 1-30 | basic theorems |  |  |  | [sec1](lns/lec3_1.pdf), [sec2](lns/lec3_2.pdf)|  [QP 2](qp/qp2.pdf) due Feb 6 | 
 4|T 2-4 | counting |  |  |  | [sec1](lns/lec4_1.pdf), [sec2](lns/lec4_2.pdf)| --- | 
 5|R 2-6 | conditional probability |  |  |  | [sec1](lns/lec5_1.pdf), [sec2](lns/lec5_2.pdf)|  [QP 3](qp/qp3.pdf) due Feb 13 | 
