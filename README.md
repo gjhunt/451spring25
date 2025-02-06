@@ -13,7 +13,7 @@ No. | date | topics | reading | book problems (BPs) | suggested problems (SPs) |
 2|T 1-28 | axiomatic probability | Leemis 2.1, 2.2 (pp41-49) | --- | --- | [sec1](lns/lec2_1.pdf), [sec2](lns/lec2_2.pdf)|  --- | 
 3|R 1-30 | basic theorems | Leemis 2.2 (pp46-54) | ch2: 2-7, 9-11, 13 | 2.1-2.10 | [sec1](lns/lec3_1.pdf), [sec2](lns/lec3_2.pdf)|  [QP 2](qp/qp2.pdf) due Feb 6 | 
 4|T 2-4 | counting | Leemis 1.2 (pp12-28) | --- | --- | [sec1](lns/lec4_1.pdf), [sec2](lns/lec4_2.pdf)| --- | 
-5|R 2-6 | conditional probability |  |  |  | [sec1](lns/lec5_1.pdf), [sec2](lns/lec5_2.pdf)|  [QP 3](qp/qp3.pdf) due Feb 13 | 
+5|R 2-6 | conditional probability | Leemis 2.4, 2.5(pp63-74) | ch2: 30, 34, 36, 38, 48, 50, 52, 56, 64, 77 | 3.1-3.10 | [sec1](lns/lec5_1.pdf), [sec2](lns/lec5_2.pdf)|  [QP 3](qp/qp3.pdf) due Feb 13 | 
 6|T 2-11 | independence |  |  |  | [sec1](lns/lec6_1.pdf), [sec2](lns/lec6_2.pdf)|  --- |
 7|R 2-13 | random variables and CDFs |  |  |  | [sec1](lns/lec7_1.pdf), [sec2](lns/lec7_2.pdf)|  [QP 4](qp/qp4.pdf) due Feb 20 | 
 8|T 2-18 | PMFs |  |  |  | [sec1](lns/lec8_1.pdf), [sec2](lns/lec8_2.pdf)|  --- |
