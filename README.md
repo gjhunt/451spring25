@@ -15,7 +15,7 @@ No. | date | topics | reading | book problems (BPs) | suggested problems (SPs) |
 4|T 2-4 | counting | Leemis 1.2 (pp12-28) | --- | --- | [sec1](lns/lec4_1.pdf), [sec2](lns/lec4_2.pdf)| --- | 
 5|R 2-6 | conditional probability | Leemis 2.4, 2.5(pp63-74) | ch2: 30, 34, 36, 38, 48, 50, 52, 56, 64, 77 | 3.1-3.10 | [sec1](lns/lec5_1.pdf), [sec2](lns/lec5_2.pdf)|  [QP 3](qp/qp3.pdf) due Feb 13 | 
 6|T 2-11 | independence | Leemis 2.6 (pp74-81) | ch2: 73, 75, 76, 80, 94, 102, 134, 142, 146 | 4.1-4.10  | [sec1](lns/lec6_1.pdf), [sec2](lns/lec6_2.pdf)|  --- |
-7|R 2-13 | random variables and CDFs |  |  |  | [sec1](lns/lec7_1.pdf), [sec2](lns/lec7_2.pdf)|  [QP 4](qp/qp4.pdf) due Feb 20 | 
+7|R 2-13 | random variables and CDFs | ---  | --- | --- | [sec1](lns/lec7_1.pdf), [sec2](lns/lec7_2.pdf)|  [QP 4](qp/qp4.pdf) due Feb 20 | 
 8|T 2-18 | PMFs |  |  |  | [sec1](lns/lec8_1.pdf), [sec2](lns/lec8_2.pdf)|  --- |
 9|R 2-20 | PDFs |  |  |  | [sec1](lns/lec9_1.pdf), [sec2](lns/lec9_2.pdf)|  [QP 5](qp/qp5.pdf) due Feb 27 | 
 . |T 2-25 | **midterm 1 (lectures 1-6)**  |
