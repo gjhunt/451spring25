@@ -16,12 +16,13 @@ No. | date | topics | reading | book problems (BPs) | suggested problems (SPs) |
 5|R 2-6 | conditional probability | Leemis 2.4, 2.5(pp63-74) | ch2: 30, 34, 36, 38, 48, 50, 52, 56, 64, 77 | 3.1-3.10 | [sec1](lns/lec5_1.pdf), [sec2](lns/lec5_2.pdf)|  [QP 3](qp/qp3.pdf) due Feb 13 | 
 6|T 2-11 | independence | Leemis 2.6 (pp74-81) | ch2: 73, 75, 76, 80, 94, 102, 134, 142, 146 | 4.1-4.10  | [sec1](lns/lec6_1.pdf), [sec2](lns/lec6_2.pdf)|  --- |
 7|R 2-13 | random variables and CDFs | ---  | --- | --- | [sec1](lns/lec7_1.pdf), [sec2](lns/lec7_2.pdf)|  [QP 4](qp/qp4.pdf) due Feb 20 | 
-8|T 2-18 | PMFs | Leemis 3.1-3.3 | ch3: 4, 7, 8, 9, 14, 15, 24, 34, 35, 36 | 5.1-5.15 | [sec1](lns/lec8_1.pdf), [sec2](lns/lec8_2.pdf)|  --- |
-9|R 2-20 | snow day | --- | --- | --- | --- |  [QP 5](qp/qp5.pdf) due Feb 27 | 
+8|T 2-18 | PMFs | Leemis 3.1-3.3 (pp98-137) | ch3: 4, 7, 8, 9, 14, 15, 24, 34, 35, 36 | 5.1-5.15 | [sec1](lns/lec8_1.pdf), [sec2](lns/lec8_2.pdf)|  --- |
+--|R 2-20 | snow day | --- | --- | --- | --- |  [QP 5](qp/qp5.pdf) due Feb 27 | 
 . |T 2-25 | **midterm 1 (lectures 1-6)**  |
-10|R 2-27 | PDFs/expectation |  |  |  | [sec1](lns/lec9_1.pdf), [sec2](lns/lec9_2.pdf)|  [QP 6](qp/qp6.pdf) due Mar 6 | 
-11|T 3-4 | variance and moments |  |  |  | [sec1](lns/lec11_1.pdf), [sec2](lns/lec11_2.pdf)| --- | 
-12|R 3-6 | mgfs and common distributions 1 |  |  |  | [sec1](lns/lec12_1.pdf), [sec2](lns/lec12_2.pdf)| [QP7](qp/qp7.pdf) due Mar 20 | 
+9|R 2-27 | PDFs/expectation | Leemis 3.4 (pp137-152) | ch3: 18, 19, 25, 28, 48, 78a,b, 133a |  | [sec1](lns/lec9_1.pdf), [sec2](lns/lec9_2.pdf)|  [QP 6](qp/qp6.pdf) due Mar 6 | 
+10| makeup | expectation/variance | Leemis 3.4 (pp152-157) | ch3: 57, 61, 65, 73, 74, 75, 78c, 87 | | [notes](lns/lec10.pdf) | -- | 
+11|R 3-4 | mgfs |  |  |  | [sec1](lns/lec11_1.pdf), [sec2](lns/lec11_2.pdf)| | 
+12|R 3-6 | common distributions  |  |  |  | [sec1](lns/lec12_1.pdf), [sec2](lns/lec12_2.pdf)| [QP7](qp/qp7.pdf) due Mar 20 | 
 .|T  3-11 | **spring break** |
 .|R  3-13 | **spring break** |
 13|T 3-18 | more common distributions |  |  |  | [sec1](lns/lec13_1.pdf), [sec2](lns/lec13_2.pdf)| --- | 
