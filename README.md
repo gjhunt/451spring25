@@ -22,7 +22,7 @@ No. | date | topics | reading | book problems (BPs) | suggested problems (SPs) |
 9|R 2-27 | PDFs/expectation | Leemis 3.4 (pp137-152) | ch3: 18, 19, 25, 28, 48, 78a,b, 133a | 6.1-6.15 | [sec1](lns/lec9_1.pdf), [sec2](lns/lec9_2.pdf)|  [QP 6](qp/qp6.pdf) due Mar 6 | 
 10| makeup | expectation/variance | | | | [notes](lns/lec10.pdf) | -- | 
 11|R 3-4 | mgfs | Leemis 3.4 (pp152-164) | ch3: 57, 61, 65, 73, 74, 75, 78c, 87, 117, 54, 67, 71, 81, 104, 134, 135 | 7.1-7.10 | [sec1](lns/lec11_1.pdf), [sec2](lns/lec11_2.pdf)| | 
-12|R 3-6 | common distributions  |  |  |  | [sec1](lns/lec12_1.pdf), [sec2](lns/lec12_2.pdf)| [QP7](qp/qp7.pdf) due Mar 20 | 
+12|R 3-6 | common distributions  | Leemis 4.1-4.2 (pp191-204), 4.7(pp234-236), 5.1-5.2(pp249-265), 5.4(pp270-279) |  |  | [sec1](lns/lec12_1.pdf), [sec2](lns/lec12_2.pdf)| [QP7](qp/qp7.pdf) due Mar 20 | 
 .|T  3-11 | **spring break** |
 .|R  3-13 | **spring break** |
 13|T 3-18 | more common distributions |  |  |  | [sec1](lns/lec13_1.pdf), [sec2](lns/lec13_2.pdf)| --- | 
