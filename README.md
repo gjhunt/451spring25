@@ -25,7 +25,7 @@ No. | date | topics | reading | book problems (BPs) | suggested problems (SPs) |
 12|R 3-6 | common distributions  | Leemis 4.1-4.2 (pp191-204), 4.7(pp234-236), 5.1-5.2(pp249-265), 5.4(pp270-279) |  |  | [sec1](lns/lec12_1.pdf), [sec2](lns/lec12_2.pdf)| [QP7](qp/qp7.pdf) due Mar 20 | 
 .|T  3-11 | **spring break** |
 .|R  3-13 | **spring break** |
-13|T 3-18 | more common distributions |  |  |  | [sec1](lns/lec13_1.pdf), [sec2](lns/lec13_2.pdf)| --- | 
+13|T 3-18 | more common distributions | 4.3(pp204-210), 4.5(pp217-230), 5.3(pp266-270) | ch4: 28, 39, 48, 54, ch5: 1, 5, 7, 21, 43, 69  | 8.1-8.10 | [sec1](lns/lec13_1.pdf), [sec2](lns/lec13_2.pdf)| --- | 
 14|R 3-20 | transformations |  |  |  | [sec1](lns/lec14_1.pdf), [sec2](lns/lec14_2.pdf)|  [QP8](qp/qp8.pdf) due Mar 27 | 
 15|T 3-25 | more transformations and bivariate rvs |  |  |  | [sec1](lns/lec15_1.pdf), [sec2](lns/lec15_2.pdf)| --- | 
 16|R 3-27 | bivariate rvs |  |  |  | [sec1](lns/lec16_1.pdf), [sec2](lns/lec16_2.pdf)|  [QP9](qp/qp9.pdf) due Apr 3 | 
