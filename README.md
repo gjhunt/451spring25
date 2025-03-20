@@ -26,7 +26,7 @@ No. | date | topics | reading | book problems (BPs) | suggested problems (SPs) |
 .|T  3-11 | **spring break** |
 .|R  3-13 | **spring break** |
 13|T 3-18 | more common distributions | 4.3(pp204-210), 4.5(pp217-230), 5.3(pp266-270) | ch4: 28, 39, 48, 54, ch5: 1, 5, 7, 21, 43, 69  | 8.1-8.10 | [sec1](lns/lec13_1.pdf), [sec2](lns/lec13_2.pdf)| --- | 
-14|R 3-20 | transformations |  |  |  | [sec1](lns/lec14_1.pdf), [sec2](lns/lec14_2.pdf)|  [QP8](qp/qp8.pdf) due Mar 27 | 
+14|R 3-20 | transformations | 7.1(pp439-448), 7.2(pp455-457) |  |  | [sec1](lns/lec14_1.pdf), [sec2](lns/lec14_2.pdf)|  [QP8](qp/qp8.pdf) due Mar 27 | 
 15|T 3-25 | more transformations and bivariate rvs |  |  |  | [sec1](lns/lec15_1.pdf), [sec2](lns/lec15_2.pdf)| --- | 
 16|R 3-27 | bivariate rvs |  |  |  | [sec1](lns/lec16_1.pdf), [sec2](lns/lec16_2.pdf)|  [QP9](qp/qp9.pdf) due Apr 3 | 
 . |T 4-1 | **midterm 2 (lecture 7-14)** | 
