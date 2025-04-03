@@ -30,7 +30,7 @@ No. | date | topics | reading | book problems (BPs) | suggested problems (SPs) |
 15|T 3-25 | more transformations and bivariate rvs |  7.2(pp458-465) 6.1(pp303-305) | ch7: 2, 9, 13, 21, 40, 55, 57, 58, 60, 63 | 9.1-9.10 | [sec1](lns/lec15_1.pdf), [sec2](lns/lec15_2.pdf)| --- | 
 16|R 3-27 | bivariate rvs | 6.1(pp303-323) |  |  | [sec1](lns/lec16_1.pdf), [sec2](lns/lec16_2.pdf)|  [QP9](qp/qp9.pdf) due Apr 3 | 
 . |T 4-1 | **midterm 2 (lecture 7-14)** | 
-17|R 4-3 | more bivariate rvs |  |  |  | [sec1](lns/lec17_1.pdf), [sec2](lns/lec17_2.pdf)|  [QP10](qp/qp10.pdf) due Apr 10 | 
+17|R 4-3 | more bivariate rvs | Leemis 6.3(pp335-338) | ch6: 4, 5, 22, 24, 32, 35, 74, 78, 82 | 10.1-10.10 | [sec1](lns/lec17_1.pdf), [sec2](lns/lec17_2.pdf)|  [QP10](qp/qp10.pdf) due Apr 10 | 
 18|T 4-8 | covariance and correlation | | | | [sec1](lns/lec18_1.pdf), [sec2](lns/lec18_2.pdf)|  --- | 
 19|R 4-10 | conditional expectation and independence |  |  |  | [sec1](lns/lec19_1.pdf), [sec2](lns/lec19_2.pdf)| [QP11](qp/qp11.pdf) due Apr 17 | 
 20|T 4-15 | iterated expectation |  |  |  | [sec1](lns/lec20_1.pdf), [sec2](lns/lec20_2.pdf)|  --- | 
