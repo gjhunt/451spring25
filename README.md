@@ -32,9 +32,9 @@ No. | date | topics | reading | book problems (BPs) | suggested problems (SPs) |
 . |T 4-1 | **midterm 2 (lecture 7-14)** | 
 17|R 4-3 | more bivariate rvs | Leemis 6.3(pp335-338) | ch6: 4, 5, 22, 24, 32, 35, 74, 78, 82 | 10.1-10.10 | [sec1](lns/lec17_1.pdf), [sec2](lns/lec17_2.pdf)|  [QP10](qp/qp10.pdf) due Apr 10 | 
 18|T 4-8 | conditional expectation | Leemis 6.1 (pp318-323), 6.2(pp323-335), 6.3(pp350-356) | | | [sec1](lns/lec18_1.pdf), [sec2](lns/lec18_2.pdf)|  --- | 
-19|R 4-10 | independence | 6(pp303-356) | ch6: 17a, 20, 36, 37, 47, 48, 50, 54, 60, 70, 88, 95 | 11.1-11.10                      | [sec1](lns/lec19_1.pdf), [sec2](lns/lec19_2.pdf)| [QP11](qp/qp11.pdf) due Apr 17 | 
-20|T 4-15 | iterated expectation |  |  |  | [sec1](lns/lec20_1.pdf), [sec2](lns/lec20_2.pdf)|  --- | 
-21|R 4-17 | bivariate normal and transformations |  |  |  | [sec1](lns/lec21_1.pdf), [sec2](lns/lec21_2.pdf)| [QP12](qp/qp12.pdf) due Apr 24 | 
+19|R 4-10 | independence | Leemis 6(pp303-356) | ch6: 17a, 20, 36, 37, 47, 48, 50, 54, 60, 70, 88, 95 | 11.1-11.10                      | [sec1](lns/lec19_1.pdf), [sec2](lns/lec19_2.pdf)| [QP11](qp/qp11.pdf) due Apr 17 | 
+20|T 4-15 | iterated expectation | Leemis 3.4(pp357-360),6.4(pp366-378) |  |  | [sec1](lns/lec20_1.pdf), [sec2](lns/lec20_2.pdf)|  --- | 
+21|R 4-17 | bivariate transformations |  |  |  | [sec1](lns/lec21_1.pdf), [sec2](lns/lec21_2.pdf)| [QP12](qp/qp12.pdf) due Apr 24 | 
 22|T 4-22 | more bivariate transformations |  |  |  | [sec1](lns/lec22_1.pdf), [sec2](lns/lec22_2.pdf) |  --- | 
 23|R 4-24 | multivariate random variables |  |  |  | [sec1](lns/lec23_1.pdf), [sec2](lns/lec23_2.pdf)|  --- | 
 24|T 4-29 | statistics |  |  |  |  [sec1](lns/lec24_1.pdf) [sec2](lns/lec24_2.pdf)|  --- |
