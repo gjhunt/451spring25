@@ -37,4 +37,4 @@ No. | date | topics | reading | book problems (BPs) | suggested problems (SPs) |
 21|R 4-17 | bivariate transformations | Leemis 7.2 (pp466-479) |  |  | [sec1](lns/lec21_1.pdf), [sec2](lns/lec21_2.pdf)| [QP12](qp/qp12.pdf) due Apr 24 | 
 22|T 4-22 | more bivariate transformations | Leemis 6.5(pp379-401) | ch7: 22, 23, 28(a), 38, 49 | 12.1-12.5 | [sec1](lns/lec22_1.pdf), [sec2](lns/lec22_2.pdf) |  --- | 
 23|R 4-24 | multivariate random variables | Leemis 6.5(403-413) | ch6: 148, 150, 152, 165, 168, 174, 175, 185, 195 | 13.1-13.5 | [sec1](lns/lec23_1.pdf), [sec2](lns/lec23_2.pdf)|  --- | 
-24|T 4-29 | review |  |  |  |  |  --- |
+24|T 4-29 | review |  | |  | [rev1](lns/review-1.pdf) [rev2](lns/review-2.pdf) |  --- |
